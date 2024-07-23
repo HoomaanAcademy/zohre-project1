@@ -3,3 +3,4 @@ border: 20px; width: 50px; border-radius: 15px; text-align:center ;}
 .box{display: flex; flex-direction: row;
 justify-content: space-around;}
 .box2{color: #10e93f;}
+p{color: bisque;}
